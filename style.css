@@ -21,3 +21,18 @@ body{
 strong{
     font-weight: 700;
 }
+
+.git{
+    padding: 1%;
+    color: white;
+    outline: 0;
+    border-radius: 7px;
+    border: 2px solid white;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    font-weight: 700;
+    background-color: black;
+    font-size: 40px;
+}
